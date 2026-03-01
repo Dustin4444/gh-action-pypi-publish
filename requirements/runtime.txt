@@ -28,7 +28,7 @@ email-validator==2.2.0
     # via pydantic
 grpclib==0.4.7
     # via betterproto
-h2==4.1.0
+h2==4.3.0
     # via grpclib
 hpack==4.1.0
     # via h2
