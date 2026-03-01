@@ -75,7 +75,7 @@ packaging==24.2
     #   twine
 platformdirs==4.3.6
     # via sigstore
-pyasn1==0.6.1
+pyasn1==0.6.2
     # via
     #   pypi-attestations
     #   sigstore
