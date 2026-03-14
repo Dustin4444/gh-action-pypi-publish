@@ -92,7 +92,7 @@ pygments==2.19.1
     # via
     #   readme-renderer
     #   rich
-pyjwt==2.10.1
+pyjwt==2.12.0
     # via sigstore
 pyopenssl==25.0.0
     # via sigstore
