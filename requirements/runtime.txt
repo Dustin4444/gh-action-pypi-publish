@@ -126,7 +126,7 @@ sigstore-models==0.0.6
     #   sigstore
 sigstore-rekor-types==0.0.18
     # via sigstore
-tuf==6.0.0
+tuf==7.0.0
     # via sigstore
 twine==7.0.0
     # via -r runtime.in
